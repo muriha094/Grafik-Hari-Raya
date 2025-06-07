@@ -35,8 +35,7 @@ code for idul adha/
 ```
 
 ## 📷 Cuplikan Tampilan
-[🎬 Tonton Video Demo](assets/cuplikan_proyek.mp4)
-
+<img src="assets/cuplikan_proyek.gif"  />
 
 
 
